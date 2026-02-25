@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Fabio Mercorio
+title: Emilio Colombo
 subtitle: >-
-  Full Professor of Data Science and Artificial Intelligence - University of
-  Milano-Bicocca, Italy
+  Full Professor of Economics - Chatolic University of Milan, Italy
 published: true
 readtime: true
 js: /js/counter.js
