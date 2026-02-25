@@ -17,11 +17,11 @@ My current research interests include international macroeconomics, applied econ
 
 ---
 
-## In evidenza
+## News
 
-**Vuoi capire come l’AI sta trasformando il mercato del lavoro?**
-Dai un’occhiata alla nostra ricerca più recente: **“Towards the Terminator Economy”**
-- Sito progetto: https://www.terminatoreconomy.com [oai_citation:3‡Google Sites](https://sites.google.com/site/colomboeml3/home?authuser=0)
+**Want to know how AI is reshaping the labour market?
+Check out our new research!**
+**[Towards the Terminator Economy](https://www.terminatoreconomy.com)**
 
 ---
 
