@@ -8,131 +8,173 @@ published: true
 readtime: true
 js: /js/counter.js
 ---
-### News
-- <span style="color:MediumSeaGreen">``Publication``</span> We've got two papers acceted at EACL-26
-- <span style="color:MediumSeaGreen">``Tool``</span> [TerminatorEconomy.com](http://terminatoreconomy.com/) is a website that enables you to explore the impact of AI on jobs - task by task - by evaluating each task's level of AI exposure and its potential to be fully automated.
-- <span style="color:MediumSeaGreen">``Publication``</span> <span style="color:MediumSeaGreen">``Press``</span> Towards the Terminator Economy: Assessing Job Exposure to AI through LLMs, with Emilio Colombo, Mario Mezzanzanica and Antonio Serino [preprint](https://arxiv.org/abs/2407.19204). Featured in [La Repubblica](https://www.repubblica.it/economia/2024/08/13/news/intelligenza_artificiale_impatto_professioni-423445016/?ref=search), [Radio24](https://giornaleradio.fm/puntate/27-11-2024-120-minuti/), [Canadian HRReporter](https://www.hrreporter.com/focus-areas/hr-technology/ai-exposure-in-highly-skilled-jobs-how-hr-should-adapt/389043), [Wired](https://www.wired.it/article/intelligenza-artificiale-lavoro-impatti-professione-classifica-italia/), and [RaiNews24](https://www.raiplay.it/video/2024/12/Specchio-dei-tempi-4e71ae71-b704-4f10-b233-52b65bf2495f.html?wt_mc=2.www.cpy.raiplay_vid_Specchiodeitempi.). Just accepted at IJCAI-25! 
-- <span style="color:MediumSeaGreen">``Publication`` </span> New paper on "[ITALIC](https://italicbench.it/): An Italian Culture-Aware Natural Language Benchmark" presented at [NAACL-25](https://aclanthology.org/2025.naacl-long.68/). Featured in [La Repubblica](https://www.repubblica.it/economia/2025/06/12/news/ia_italiane_non_superano_test_lingua-424663861/)
-- <span style="color:MediumSeaGreen">``Publication``</span> <span style="color:MediumSeaGreen">``Tool``</span> MERLIN, a model agnostic, global, model contrastive explainer for any classifier. Published on [Decision Support Systems](https://www.sciencedirect.com/science/article/pii/S016792362300115X) and available on [GitHub](https://github.com/Crisp-Unimib/MERLIN) 
-- <span style="color:MediumSeaGreen">``Speech``</span> "Social Media and AI: No Screen Neededs To Grow Smart". See my speech about the impact of AI in education (with Pellai, Botturi and Wolf) [IT](https://lnkd.in/dchmhuFS), [EN](https://lnkd.in/dfuirfKt), [FR](https://lnkd.in/dcQvdqu4)
-- <span style="color:brown">``Teaching``</span> Students can book a live appointment [here](https://calendly.com/fabio-mercorio/ricevimento-studenti)
 
-### Relevant events I’m involved in as (senior) PC
-- [AAAI-26](https://aaai.org/conference/aaai/aaai-26/)
-- [CIKM-25](https://cikm2025.org/)
-- [EMNLP-25](https://2025.emnlp.org)
-- [NAACL-25](https://2025.naacl.org/calls/papers/) 
-- [IJCAI-25 (Survey Track)](https://ijcai25.org/call-for-papers/)
-- [ECML-PKDD-25](https://ecmlpkdd.org/2025/)
-- [AAAI-25](https://aaai.org/conference/aaai/aaai-25/)
-- [COLING-25](https://coling2025.org/calls/industry_track/)
+# Emilio Colombo
 
-### About
-I am Full Professor in Computer Science at [University of Milan-Bicocca](https://www.unimib.it/). I'm director of [Master in AI and Data Analytics for Business](https://www.academy.unimib.it/ai-data-analytics-business) at University of Milano-Bicocca, Italy.
+Sono **Professor of Economics** presso **Università Cattolica del Sacro Cuore (Milano)**. [oai_citation:0‡Google Sites](https://sites.google.com/site/colomboeml3/home?authuser=0)
+Sono anche **Associate Editor** di *Economic Analysis and Policy*. [oai_citation:1‡Google Sites](https://sites.google.com/site/colomboeml3/home?authuser=0)
 
-#### Current Positions
-+ [March24-present] **Full Professor**  at University of Milan-Bicocca
-+ [October24-present] **Deputy Director**  Department of Statistics and Quantitative Methods at University of Milan-Bicocca
-+ [2022-present] **Director** of the [Master in AI and Data Analytics for Business](https://www.academy.unimib.it/ai-data-analytics-business) , Italy
-+ [2010-present] **Member of the Scientific Committee** of CRISP Research Centre, Milan, Italy
+I miei principali interessi di ricerca includono **macroeconomia internazionale**, **economia applicata** ed **economia del lavoro**. [oai_citation:2‡Google Sites](https://sites.google.com/site/colomboeml3/home?authuser=0)
 
-####  Past Positions
-+ [Dec2021-Feb2024] **Associate Professor**  at University of Milan-Bicocca
-+ [2020-Ago2023] **Deputy Director** of the [CRISP Research Centre](https://www.crisp-org.it/), Italy
-- [2016-Nov2021] **Assistant Professor**  at University of Milan-Bicocca
-- [2011-2016] **PostDoc** at University of Milan-Bicocca
-- [2017-2018] **Partner** at TabulaeX Ltd (formerly spin-out company of Unimib) working on BI and Big Data Analytics. TabulaeX is now LightCast
-- [2015-2016] **Visiting Researcher** at King's College London, AI Planning Group, UK
+---
 
-#### My research interests include
-- *Artificial Intelligence*: eXplainable AI, interpretable models, local and global interpreta- tion, explanation through symbolic approaches, fairness.
-- *Data Science*: Big Data Analytics, ontology Learning, word embedding evaluation, Large Language Models
-- *AI Planning [formerly]:* domain-independent planning, temporal continuous planning, planning in mixed discrete-continuous domains, planning in hybrid domain
+## In evidenza
 
-#### Research team AI@CRISP-UNIMIB  
-_"If you want to go fast go alone. If you want to go far go together"_. Proud to work with brilliant phd students and researchers of our team
-- [Lorenzo Malandri](https://www.linkedin.com/in/lorenzo-malandri-749bb652/), Reseacher in AI and Computational Linguistics, Dept of Statistics and Quantitative Methods
-- [Navid Nobani](https://www.linkedin.com/in/navidnobani/), Researcher on XAI, Dept of Statistics and Quantitative Methods at Unimib 
-- [Francesco Trentini](https://www.unimib.it/francesco-trentini), PostDoc in Economics at Unimib 
-- [Andrea Seveso](https://www.linkedin.com/in/andreaseveso/), PostDoc in NLP, Dept of Statistics and Quantitative Methods at Unimib 
-- Anna Velyka, PostDoc in NLP, Dept of Statistics and Quantitative Methods at Unimib 
-- [Filippo Pallucchini](https://www.linkedin.com/in/filippo-pallucchini-5322b7103/), PhD Student in Big Data Analytics for Business 
-- Simone D'Amico, PhD Candidate in Big Data Analytics for Business 
-- Alessia De Santo, PhD Candidate in Big Data Analytics for Business 
-- Antonio Serino, PhD Student in Big Data Analytics for Business 
-- Daniele Potertì, PhD Student in Big Data Analytics for Business 
-- Simone Adobati, PhD Student in Big Data Analytics for Business 
+**Vuoi capire come l’AI sta trasformando il mercato del lavoro?**
+Dai un’occhiata alla nostra ricerca più recente: **“Towards the Terminator Economy”**
+- Sito progetto: https://www.terminatoreconomy.com [oai_citation:3‡Google Sites](https://sites.google.com/site/colomboeml3/home?authuser=0)
 
-##### Past members
-- [Anna Giabelli](https://www.linkedin.com/in/anna-giabelli-42985718b/), PhD in Computer Science, now Research Fellow at Istituto Mario Negri
-- [Alessandro Castelnovo](https://www.linkedin.com/in/alessandro-castelnovo-66421399/), PhD in Computer Science, now Data Science Manager at Intesa SanPaolo Bank
+---
 
-#### (Co)-Developed Tools for Researchers
+## Curriculum Vitae
 
-- [*Terminator-Economy*](https://github.com/Crisp-Unimib/Terminator-Economy) is a two-stage AI evaluation pipeline that analyzes the capability of large language models (LLMs), image-processing systems, and robotics to perform specific occupational tasks. The web-app is available at [TerminatorEconomy.com](https://terminatoreconomy.com/home). Related paper: [IJCAI-25](https://www.ijcai.org/proceedings/2025/1066.pdf)
-- [*SeNSe*](https://github.com/Crisp-Unimib/SeNSe) is an unsupervised method for embedding alignment via semantic anchor selection.  It generates bilingual (or monolingual) word pair dictionaries by selecting “anchors” that share similar contextual neighborhoods across two vocabularies — without assuming prior semantic similarity.  Implemented in Python, it enables cross-lingual and cross-domain embedding alignment for NLP research and applications. Related paper: [Int. J. Data Sci. Anal. 2025](https://link.springer.com/article/10.1007/s41060-024-00522-z)
-- [*SFAL*](https://github.com/Crisp-Unimib/SFAL) is a pipeline for Semantic–Functional Alignment Scores. It analyses and links features from sparse autoencoders (SAE) by: (i) calculating co-occurrence matrices of SAE features, (ii) generating embeddings for their explanations (via Neuronpedia), and (iii) scoring the alignment between co-occurrence similarity and semantic similarity of the feature-explanations.
-Related Paper: [EMNLP 2025](https://2025.emnlp.org/)
-- [*vec2best*](https://github.com/Crisp-Unimib/vec2best) is a Python library providing a unified framework for intrinsic evaluation of word-embedding algorithms. It allows researchers to evaluate embedding models using tasks such as similarity, analogy, categorisation and outlier detection, and computes a holistic metric called *PCE* (Principal Component Evaluation). Related paper: [Cognitive Computation 2024](https://doi.org/10.1007/s12559-023-10235-3)
-- [*MERLIN*](https://github.com/Crisp-Unimib/MERLIN) is a global, model-agnostic, contrastive explainer for any tabular or text classifier. It provides contrastive explanations of how the behaviour of two machine learning models differs. It is available as a python tool on Github. 
-Related papers: [Decision Support Systems 2023](https://www.sciencedirect.com/science/article/pii/S016792362300115X)
-- [*ContrXT*](http://contrxt.ai) is a model agnostic, global, time contrastive explainer for any text classifier. It is available as a python tool on Github. Related papers: [*[Information-Fusion-22]*](https://www.sciencedirect.com/science/article/pii/S1566253521002426?dgcid=author)
-- [*TaxoRef*](https://github.com/Crisp-Unimib/TaxoRef) is a methodology for Taxonomy Refinement via word embeddings. It allows evaluating the best embedding on the basis of their ability to represent taxonomic similarity relations. Related papers: [*[ECML-PKDD-21]*](https://link.springer.com/chapter/10.1007%2F978-3-030-86523-8_37)
-- [*GraphDBLP*](https://github.com/fabiomercorio/GraphDBLP) is a tool that models (and enriches) DBLP as a graph database for performing graph-based queries and social network analyses. Related papers: [*[ECML-PKDD-19]*](https://link.springer.com/chapter/10.1007/978-3-030-46133-1_46), [*[MTAP-18]*](https://link.springer.com/article/10.1007%2Fs11042-017-5503-2)
-- [*UPMurphi*](https://github.com/fabiomercorio/UPMurphi) is a tool for  planning with linear and nonlinear continuous PDDL+ models with processes and events. It also handles huge state spaces through a disk-based algorithm. Related papers: [*[ICAPS-09]*](https://aaai.org/ocs/index.php/ICAPS/ICAPS09/paper/view/707/1100), [*[Applied Intelligence 2012]*](https://link.springer.com/article/10.1007%2Fs10489-011-0306-z)
-- [*DiNo*](https://github.com/KCL-Planning/DiNo) A Planner built on top of UPMurphi that employs graph-based heuristics to speed-up the plan synthesis (leaded by "Planning Group" at King's College London). Related papers: [*[IJCAI-16]*](https://www.ijcai.org/Abstract/16/455)
+Puoi scaricare il mio CV qui:
+- CV (PDF): https://www.dropbox.com/s/uzesbx6cm33oyyf/cv_new.pdf?dl=0 [oai_citation:4‡Google Sites](https://sites.google.com/site/colomboeml3/curriculum-vitae)
 
-#### (Co)-Developed LLM Benchmarks
+---
 
-- [*ITALIC*](https://github.com/Crisp-Unimib/ITALIC) is a large-scale benchmark dataset of 10K+ multiple-choice questions designed to evaluate natural-language understanding of Italian culture, commonsense reasoning and linguistic proficiency in a morphologically rich language. It spans 12 domains, drawing from real-world public tests and exams. 
-Related paper: [NAACL-2025](https://aclanthology.org/2025.naacl-long.68/)
-- [*INVALSI-Eval-Suite*](https://github.com/Crisp-Unimib/INVALSI-Eval-Suite) is a structured benchmark for evaluating large language models’ proficiency on Italian student competencies using the national INVALSI tests. The dataset covers 405 questions across 6 educational grades, spans multiple question-types (multiple choice, multiple complex choice, open-response) and targets both text comprehension and reflection on language. Related paper: [ECML-PKDD-25](https://ecmlpkdd-storage.s3.eu-central-1.amazonaws.com/preprints/2025/ads/preprint_ecml_pkdd_2025_ads_1077.pdf)
+## Ricerca
 
-#### Granted Ongoing Research Projects
-I have been working on the following granted reserch projects, that allow me putting my research on AI and XAI into practice. (see [Project](https://fabiomercorio.github.io/projects/))  
+### Work in progress
+- **Let’s get green: understanding green skills and jobs through online job advertisements (2025)**
+ con Alessia De Santo, Francesco Trentini.
+ - DISEIS WP 2503: https://dipartimenti.unicatt.it/diseis [oai_citation:5‡Google Sites](https://sites.google.com/site/colomboeml3/research)
+ - Laboratorio Revelli WP194: https://www.laboratoriorevelli.it [oai_citation:6‡Google Sites](https://sites.google.com/site/colomboeml3/research)
 
-####  Education
-- [2012] **PhD in Computer Science and Applications** Dept of Computer Science, University of L’Aquila, Italy. *Advisors*: prof. Giuseppe Della Penna (University of L'Aquila, Italy) and prof. Daniele Magazzeni (King's College London, UK). *Topics:* AI Planning, Model Checking and Data Quality.
-- [2008] **Master Degree in Computer Science and Application** University of L’Aquila, Italy. Advisor: prof. Giuseppe Della Penna and prof. Daniele Magazzeni. *Topics:* AI Planning Control Theory and Model Checking. Maximum score/summa cum laude.
+- **VEUCTOR: Training and Selecting Best Vector Space Models from Online Job Ads for European Countries (2025)**
+ con Simone D’Amico, Fabio Mercorio, Mario Mezzanzanica. [oai_citation:7‡Google Sites](https://sites.google.com/site/colomboeml3/research)
 
-#### Teaching
-- [2010-present] **Lecturer** at University of Milano-Bicocca. *Topics:* Python, SQL, NoSQL Data Stores, Business Intelligence, eXplainable AI, Text Mining
-- [2010-present] **Teaching Assistant** at University of Milano-Bicocca. *Topics:* Python, Database, SQL
+- **Broadband Shocks, TFP Growth and Polarisation of European Firms (2025)**
+ con Luca Portoghese, Patrizio Tirelli. (DISEIS WP 2504) [oai_citation:8‡Google Sites](https://sites.google.com/site/colomboeml3/research)
 
-Please visit my [Teaching page](https://fabiomercorio.github.io/teaching/) for further details
+- **Broadband Access and Markups in Europe (2025)**
+ con Luca Portoghese, Patrizio Tirelli. (DISEIS WP 2505) [oai_citation:9‡Google Sites](https://sites.google.com/site/colomboeml3/research)
 
-#### Awards
-- [2019]  **Research Talent Award** I've received the first prize at the [YoungTalentAward 2019](https://www.unimib.it/ricerca/finanziamenti/finanziamenti-ateneo/premio-giovani-talenti) in collaboration with Accademia Nazionale Lincei in the Computer Science, Engineering & Mathematics area. _"for his contribution on applying AI to labour market for describing and predicting labour market phenomena"_
-- [2017]  **FFABR Research Grant** for research productivity provided by Italian Ministry of research "Finanziamento annuale individuale delle attività base di ricerca" [Grants provided on a competitive basis aimed at funding research activities]
-- [2014] **Best Paper Award** at the Third International Conference on Data Technologies and Applications, Vienna, Austria, 29-31, 2014
-- [2013] **Best Paper Award** at the Third International Workshop, Human Computer Interaction – Knowledge Discovery 1-3 Luglio, Maribor, Slovenia, 2013
+- **Broadband Internet and Labour Market Dynamism (2025)**
+ con Angelica Bertucci, Patrizio Tirelli. (DISEIS WP 2506) [oai_citation:10‡Google Sites](https://sites.google.com/site/colomboeml3/research)
 
-#### Service in International Journals (Selection)
-- ([AICom](https://www.aicommunications.eu/)) *Associate Editor* of AI Communications   
-Reviewer for (selection):
-- Artificial Intelligence
-- Cognitive Computation
-- Applied Soft Computing
-- Applied Intelligence
-- Future Generation Computer System
-- Knowledge-Based Systems
-- Computers in Industry
-- Expert Systems with Applications
+### Published papers (selezione completa come nel sito)
+- **Towards the Terminator Economy: Assessing Job Exposure to AI through LLMs (2025)**
+ con Fabio Mercorio, Mario Mezzanzanica, Antonio Serino.
+ - ArXiv: https://arxiv.org/abs/2407.19204
+ - DISEIS WP 2401: https://dipartimenti.unicatt.it/diseis
+ - IJCAI-25 proceedings — DOI: https://doi.org/10.24963/ijcai.2025/1066
+ (citazioni media: La Repubblica, Radio24, Wired, RaiNews24, ecc.) [oai_citation:11‡Google Sites](https://sites.google.com/site/colomboeml3/research)
 
-#### Program committee membership (Selection)
-- (AAAI) AAAI Conference on Artificial Intelligence (since 2016) 
-- (IJCAI) International Joint Conference on Artificial Intelligence (since 2016) 
-- (ICAPS) International Conference on Automated Planning and Scheduling (since 2016)
-- (ECML-PKDD) European Conference on Machine Learning and Data Mining (since 2020) 
-- ACM/SIGAPP Symposium On Applied Computing (since 2018)
-- Data Technology and Application  Conference (since 2014)
+- **Public Expenditure Multipliers and Informality (2024)**
+ con Davide Furceri, Pietro Pizzuto, Patrizio Tirelli. *European Economic Review*.
+ DOI: https://doi.org/10.1016/j.euroecorev.2024.104703 [oai_citation:12‡Google Sites](https://sites.google.com/site/colomboeml3/research)
 
-#### Contact
-Email (preferred): [fabio.mercorio@unimib.it](mailto:fabio.mercorio@unimib.it)  
-*Office Hours:* [by appointment](https://calendly.com/fabio-mercorio/meet-mercorio)
+- **Skill Demand and Labour Market Concentration: Evidence from Italian Vacancies (2023)**
+ con Alberto Marcato. *International Journal of Manpower*.
+ DOI: https://doi.org/10.1108/IJM-04-2023-0181 [oai_citation:13‡Google Sites](https://sites.google.com/site/colomboeml3/research)
 
-**Fabio Mercorio**  
-Room 2043 - U7 Building - Department of Statistics and Quantitative Methods / CRISP Research Centre, University of Milan-Bicocca
-Viale dell'Innovazione 10 - Milan - Italy
-Office: (+39) 02 644 82170
+- **Comparing the US financing sources during world wars and pandemics (Spanish flu vs. COVID-19) (2023)**
+ con Edoardo Beretta. *Applied Economics Letters*.
+ DOI: https://doi.org/10.1080/13504851.2023.2266598 [oai_citation:14‡Google Sites](https://sites.google.com/site/colomboeml3/research)
+
+- **The Day after the Bomb: Well-being Effects of Terrorist Attacks in Europe (2021)**
+ con Valentina Rotondi, Luca Stanca. *Social Indicators Research*.
+ DOI: https://doi.org/10.1007/s11205-021-02800-w [oai_citation:15‡Google Sites](https://sites.google.com/site/colomboeml3/research)
+
+- **Statistical Learning and Exchange Rate Forecasting (2020)**
+ con Matteo Pelagatti. *International Journal of Forecasting*.
+ DOI: https://doi.org/10.1016/j.ijforecast.2019.12.007 [oai_citation:16‡Google Sites](https://sites.google.com/site/colomboeml3/research)
+
+- **Informality and the Labor Market Effects of Financial Crises (2019)**
+ con Lorenzo Menna, Patrizio Tirelli. *World Development*.
+ DOI: https://doi.org/10.1016/j.worlddev.2019.03.001 [oai_citation:17‡Google Sites](https://sites.google.com/site/colomboeml3/research)
+
+- **Comparing time series characteristics of official and web job vacancy data (2019)**
+ con P. Lovaglio, M. Mezzanzanica. *Quality & Quantity*.
+ DOI: https://doi.org/10.1007/s11135-019-00940-3 [oai_citation:18‡Google Sites](https://sites.google.com/site/colomboeml3/research)
+
+- **AI Meets Labor Market: Exploring the Link Between Automation and Skills (2019)**
+ con Fabio Mercorio, Mario Mezzanzanica. *Information Economics and Policy*.
+ DOI: https://doi.org/10.1016/j.infoecopol.2019.05.003 [oai_citation:19‡Google Sites](https://sites.google.com/site/colomboeml3/research)
+
+- **Carry trade returns with Support Vector Machines (2018)**
+ con Roberto Rossignoli, Gianfranco Forte. *International Review of Finance*.
+ DOI: https://doi.org/10.1111/irfi.12186 [oai_citation:20‡Google Sites](https://sites.google.com/site/colomboeml3/research)
+
+- **Macroeconomic Conditions and Well-being: Do Social Interactions Matter? (2017)**
+ con Valentina Rotondi, Luca Stanca. *Applied Economics*.
+ DOI: https://doi.org/10.1080/00036846.2017.1414935 [oai_citation:21‡Google Sites](https://sites.google.com/site/colomboeml3/research)
+
+- **Macroeconomic Conditions and Health: Inspecting the Transmission Mechanism (2017)**
+ con Valentina Rotondi, Luca Stanca. *Economics & Human Biology*.
+ DOI: https://doi.org/10.1016/j.ehb.2017.11.005 [oai_citation:22‡Google Sites](https://sites.google.com/site/colomboeml3/research)
+
+- **Shadow Economies at Times of Banking Crises: Empirics and Theory (2016)**
+ con Patrizio Tirelli, Luisanna Onnis. *Journal of Banking and Finance*.
+ DOI: https://doi.org/10.1016/j.jbankfin.2014.09.017 [oai_citation:23‡Google Sites](https://sites.google.com/site/colomboeml3/research)
+
+- **Addressing the unemployment-mortality conundrum: Non-linearity is the answer (2015)**
+ con Fabrizio Carmignani, Giorgio Bonamore. *Social Science & Medicine*.
+ DOI: https://doi.org/10.1016/j.socscimed.2014.12.017 [oai_citation:24‡Google Sites](https://sites.google.com/site/colomboeml3/research)
+
+- **On the Empirical Failure of Purchasing Power Parity Tests (2015)**
+ con Matteo Pelagatti. *Journal of Applied Econometrics*.
+ DOI: https://doi.org/10.1002/jae.2418 [oai_citation:25‡Google Sites](https://sites.google.com/site/colomboeml3/research)
+
+- **Measuring the Monetary Value of Social Relations: a Hedonic Approach (2014)**
+ con Luca Stanca. *Journal of Behavioral and Experimental Economics*.
+ DOI: https://doi.org/10.1016/j.socec.2014.03.001 [oai_citation:26‡Google Sites](https://sites.google.com/site/colomboeml3/research)
+
+- **The Effect of Training on Productivity: Evidence from a Large Panel of Firms (2014)**
+ con Luca Stanca. *International Journal of Manpower*.
+ DOI: https://doi.org/10.1108/IJM-Aug-2012-012 [oai_citation:27‡Google Sites](https://sites.google.com/site/colomboeml3/research)
+
+- **Reinterpreting social pacts: theory and evidence (2013)**
+ con Patrizio Tirelli, Jelle Visser. *Journal of Comparative Economics*.
+ DOI: https://doi.org/10.1016/j.jce.2013.05.008 [oai_citation:28‡Google Sites](https://sites.google.com/site/colomboeml3/research)
+
+- **La Dolce Vita: Hedonic Estimates of Quality of Life in Italian Cities (2012)**
+ con Luca Stanca, Alessandra Michelangeli. *Regional Studies*.
+ DOI: https://doi.org/10.1080/00343404.2012.712206 [oai_citation:29‡Google Sites](https://sites.google.com/site/colomboeml3/research)
+
+- **Macroeconomic risk and the (de)stabilising role of government size (2011)**
+ con Fabrizio Carmignani, Patrizio Tirelli. *European Journal of Political Economy*.
+ DOI: https://doi.org/10.1016/j.ejpoleco.2011.04.002 [oai_citation:30‡Google Sites](https://sites.google.com/site/colomboeml3/research)
+
+*(…e le altre pubblicazioni/monografie come riportato nella pagina Research.)* [oai_citation:31‡Google Sites](https://sites.google.com/site/colomboeml3/research)
+
+---
+
+## Didattica
+
+- **Economia Internazionale** [oai_citation:32‡Google Sites](https://sites.google.com/site/colomboeml3/teaching)
+- **Economia Europea** [oai_citation:33‡Google Sites](https://sites.google.com/site/colomboeml3/teaching)
+
+---
+
+## Progetti
+
+Negli ultimi anni ho partecipato a diversi progetti di ricerca dedicati allo sviluppo di strumenti innovativi per il mercato del lavoro, basati sull’analisi degli **Online Job Advertisements (OJA)**. [oai_citation:34‡Google Sites](https://sites.google.com/site/colomboeml3/projects)
+
+In collaborazione con un team di informatici di **CRISP (Università di Milano-Bicocca)** e con **Tabulaex** (oggi **Lightcast Europe**), questi strumenti sono stati inizialmente sviluppati per il mercato del lavoro italiano. [oai_citation:35‡Google Sites](https://sites.google.com/site/colomboeml3/projects)
+
+Nel **2015** abbiamo vinto un bando finanziato da **CEDEFOP** per realizzare un prototipo di analisi OJA in **5 paesi europei**. Successivamente, ulteriori bandi hanno permesso di estendere l’approccio fino a un sistema paneuropeo (28 paesi) in un contesto multilingue. Il progetto, co-finanziato da **CEDEFOP** ed **EUROSTAT**, ha contribuito a trasformare questi strumenti in un sistema informativo integrato con le **Eurostat Smart Statistics**. [oai_citation:36‡Google Sites](https://sites.google.com/site/colomboeml3/projects)
+
+Dal **2025 al 2029** sarò **project leader** di un Framework Contract in cui **CRISP** e **Lightcast** svilupperanno, manterranno ed espanderanno l’**Eurostat Web Intelligence Hub**. [oai_citation:37‡Google Sites](https://sites.google.com/site/colomboeml3/projects)
+
+---
+
+## Contatti
+
+- **Email:** emilio.colombo@unicatt.it [oai_citation:38‡Google Sites](https://sites.google.com/site/colomboeml3/home?authuser=0)
+- **Office:** 508, via Necchi 5, quarto piano [oai_citation:39‡Google Sites](https://sites.google.com/site/colomboeml3/home?authuser=0)
+- **Office hours:** su appuntamento (vedi sezione Appointment) [oai_citation:40‡Google Sites](https://sites.google.com/site/colomboeml3/home?authuser=0)
+- **Indirizzo postale:**
+ Università Cattolica del Sacro Cuore
+ Largo Gemelli 1
+ 20123 Milano, Italia [oai_citation:41‡Google Sites](https://sites.google.com/site/colomboeml3/home?authuser=0)
+- **ORCID:** https://orcid.org/0000-0002-0646-5680 [oai_citation:42‡Google Sites](https://sites.google.com/site/colomboeml3/home?authuser=0)
+
+---
+
+## Appointment
+
+Per fissare un appuntamento usa lo strumento di prenotazione (slot disponibili):
+- Book now / Office hours: (link di prenotazione dalla pagina “Contact me”) [oai_citation:43‡Google Sites](https://sites.google.com/site/colomboeml3/contact-me)
 
