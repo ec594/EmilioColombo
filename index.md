@@ -9,8 +9,8 @@ js: /js/counter.js
 
 # Emilio Colombo
 
-I am **Professor of Economics** at the **Catholic University of Milan**. [oai_citation:0‡Google Sites](https://sites.google.com/site/colomboeml3/home?authuser=0)
-Sono anche **Associate Editor** di *[Economic Analysis and Policy](https://www.sciencedirect.com/journal/economic-analysis-and-policy)*. [oai_citation:1‡Google Sites](https://sites.google.com/site/colomboeml3/home?authuser=0)
+I am **Professor of Economics** at the **Catholic University of Milan**. 
+I am also **Associate Editor** of *[Economic Analysis and Policy](https://www.sciencedirect.com/journal/economic-analysis-and-policy)*. 
 
 I miei principali interessi di ricerca includono **macroeconomia internazionale**, **economia applicata** ed **economia del lavoro**. [oai_citation:2‡Google Sites](https://sites.google.com/site/colomboeml3/home?authuser=0)
 
