@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Emilio Colombo
-subtitle: >-
- Full Professor of Economics - Università Cattolica del Sacro Cuore, Italy
+subtitle: 'Full Professor of Economics - Università Cattolica del Sacro Cuore, Italy'
 published: true
 readtime: true
 js: /js/counter.js
@@ -10,7 +9,7 @@ js: /js/counter.js
 
 # Emilio Colombo
 
-Sono **Professor of Economics** presso **Università Cattolica del Sacro Cuore (Milano)**. [oai_citation:0‡Google Sites](https://sites.google.com/site/colomboeml3/home?authuser=0)
+I am **Professor of Economics** at the **Catholic University of Milan**. [oai_citation:0‡Google Sites](https://sites.google.com/site/colomboeml3/home?authuser=0)
 Sono anche **Associate Editor** di *[Economic Analysis and Policy](https://www.sciencedirect.com/journal/economic-analysis-and-policy)*. [oai_citation:1‡Google Sites](https://sites.google.com/site/colomboeml3/home?authuser=0)
 
 I miei principali interessi di ricerca includono **macroeconomia internazionale**, **economia applicata** ed **economia del lavoro**. [oai_citation:2‡Google Sites](https://sites.google.com/site/colomboeml3/home?authuser=0)
@@ -176,4 +175,3 @@ Dal **2025 al 2029** sarò **project leader** di un Framework Contract in cui **
 
 Per fissare un appuntamento usa lo strumento di prenotazione (slot disponibili):
 - Book now / Office hours: (link di prenotazione dalla pagina “Contact me”) [oai_citation:43‡Google Sites](https://sites.google.com/site/colomboeml3/contact-me)
-
