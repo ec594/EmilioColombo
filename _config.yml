@@ -14,10 +14,10 @@ url: http://fabiomercorio.github.io
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Fabio Mercorio
+title: Emilio Colombo
 
 # Short description of your site
-description: Full Professor of Computer Science
+description: Full Professor of Ecomomics
 
 # --- Navigation bar options --- #
 
@@ -43,11 +43,11 @@ avatar: "/img/profilepic.jpg"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Fabio Mercorio
-  email: "fabio.mercorio@unimib.it"
-  github: fabiomercorio    # eg. daattali
-  twitter: fabiomercorio   # eg. daattali
-  linkedin: mercorio  # eg. daattali
+  name: Emilio Colombo
+  email: "emilio.colombo@unicatt.it"
+  github:     # eg. daattali
+  twitter:    # eg. daattali
+  linkedin:   # eg. daattali
 
 # Select which links to show in the footer
 footer-links-active:
@@ -81,7 +81,7 @@ share-links-active:
 #disqus: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-google_analytics: "UA-60809607-1"
+# google_analytics: "UA-60809607-1"
 
 # Facebook App ID
 # fb_app_id: ""
