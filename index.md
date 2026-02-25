@@ -2,7 +2,7 @@
 layout: page
 title: Emilio Colombo
 subtitle: >-
-  Full Professor of Economics - Chatolic University of Milan, Italy
+  Full Professor of Economics - Università Cattolica del Sacro Cuore, Italy
 published: true
 readtime: true
 js: /js/counter.js
