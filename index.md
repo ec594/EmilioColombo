@@ -40,9 +40,6 @@ with Alessia De Santo, Francesco Trentini.
  - DISEIS WP 2503: https://dipartimenti.unicatt.it/diseis [oai_citation:5‡Google Sites](https://sites.google.com/site/colomboeml3/research)
  - Laboratorio Revelli WP194: https://www.laboratoriorevelli.it [oai_citation:6‡Google Sites](https://sites.google.com/site/colomboeml3/research)
 
-- **VEUCTOR: Training and Selecting Best Vector Space Models from Online Job Ads for European Countries (2025)**
- con Simone D’Amico, Fabio Mercorio, Mario Mezzanzanica. [oai_citation:7‡Google Sites](https://sites.google.com/site/colomboeml3/research)
-
 - **Broadband Shocks, TFP Growth and Polarisation of European Firms (2025)**
  with Luca Portoghese, Patrizio Tirelli. (DISEIS WP 2504) [oai_citation:8‡Google Sites](https://sites.google.com/site/colomboeml3/research)
 
@@ -71,64 +68,64 @@ with Fabio Mercorio, Mario Mezzanzanica, Antonio Serino.
 
 - **Comparing the US financing sources during world wars and pandemics (Spanish flu vs. COVID-19) (2023)**
  with Edoardo Beretta. *Applied Economics Letters*.
- [DOI:10.1080/13504851.2023.2266598] (https://doi.org/10.1080/13504851.2023.2266598)
+ [DOI:10.1080/13504851.2023.2266598](https://doi.org/10.1080/13504851.2023.2266598)
 
 - **The Day after the Bomb: Well-being Effects of Terrorist Attacks in Europe (2021)**
- con Valentina Rotondi, Luca Stanca. *Social Indicators Research*.
- DOI: https://doi.org/10.1007/s11205-021-02800-w [oai_citation:15‡Google Sites](https://sites.google.com/site/colomboeml3/research)
+ with Valentina Rotondi, Luca Stanca. *Social Indicators Research*.
+ [DOI:10.1007/s11205-021-02800-w](https://doi.org/10.1007/s11205-021-02800-w)
 
 - **Statistical Learning and Exchange Rate Forecasting (2020)**
- con Matteo Pelagatti. *International Journal of Forecasting*.
- DOI: https://doi.org/10.1016/j.ijforecast.2019.12.007 [oai_citation:16‡Google Sites](https://sites.google.com/site/colomboeml3/research)
+ with Matteo Pelagatti. *International Journal of Forecasting*.
+ [DOI:10.1016/j.ijforecast.2019.12.007](https://doi.org/10.1016/j.ijforecast.2019.12.007)
 
 - **Informality and the Labor Market Effects of Financial Crises (2019)**
- con Lorenzo Menna, Patrizio Tirelli. *World Development*.
- DOI: https://doi.org/10.1016/j.worlddev.2019.03.001 [oai_citation:17‡Google Sites](https://sites.google.com/site/colomboeml3/research)
+ with Lorenzo Menna, Patrizio Tirelli. *World Development*.
+ [DOI:10.1016/j.worlddev.2019.03.001](https://doi.org/10.1016/j.worlddev.2019.03.001)
 
 - **Comparing time series characteristics of official and web job vacancy data (2019)**
- con P. Lovaglio, M. Mezzanzanica. *Quality & Quantity*.
- DOI: https://doi.org/10.1007/s11135-019-00940-3 [oai_citation:18‡Google Sites](https://sites.google.com/site/colomboeml3/research)
+  with P. Lovaglio, M. Mezzanzanica. *Quality & Quantity*.
+ [DOI:10.1007/s11135-019-00940-3](https://doi.org/10.1007/s11135-019-00940-3)
 
 - **AI Meets Labor Market: Exploring the Link Between Automation and Skills (2019)**
- con Fabio Mercorio, Mario Mezzanzanica. *Information Economics and Policy*.
- DOI: https://doi.org/10.1016/j.infoecopol.2019.05.003 [oai_citation:19‡Google Sites](https://sites.google.com/site/colomboeml3/research)
+ with Fabio Mercorio, Mario Mezzanzanica. *Information Economics and Policy*.
+ [DOI:10.1016/j.infoecopol.2019.05.003](https://doi.org/10.1016/j.infoecopol.2019.05.003)
 
 - **Carry trade returns with Support Vector Machines (2018)**
- con Roberto Rossignoli, Gianfranco Forte. *International Review of Finance*.
- DOI: https://doi.org/10.1111/irfi.12186 [oai_citation:20‡Google Sites](https://sites.google.com/site/colomboeml3/research)
+ with Roberto Rossignoli, Gianfranco Forte. *International Review of Finance*.
+ [DOI:10.1111/irfi.12186](https://doi.org/10.1111/irfi.12186)
 
 - **Macroeconomic Conditions and Well-being: Do Social Interactions Matter? (2017)**
- con Valentina Rotondi, Luca Stanca. *Applied Economics*.
- DOI: https://doi.org/10.1080/00036846.2017.1414935 [oai_citation:21‡Google Sites](https://sites.google.com/site/colomboeml3/research)
+ with Valentina Rotondi, Luca Stanca. *Applied Economics*.
+ [DOI:10.1080/00036846.2017.1414935](https://doi.org/10.1080/00036846.2017.1414935)
 
 - **Macroeconomic Conditions and Health: Inspecting the Transmission Mechanism (2017)**
- con Valentina Rotondi, Luca Stanca. *Economics & Human Biology*.
- DOI: https://doi.org/10.1016/j.ehb.2017.11.005 [oai_citation:22‡Google Sites](https://sites.google.com/site/colomboeml3/research)
+ with Valentina Rotondi, Luca Stanca. *Economics & Human Biology*.
+ [DOI:10.1016/j.ehb.2017.11.005](https://doi.org/10.1016/j.ehb.2017.11.005)
 
 - **Shadow Economies at Times of Banking Crises: Empirics and Theory (2016)**
- con Patrizio Tirelli, Luisanna Onnis. *Journal of Banking and Finance*.
- DOI: https://doi.org/10.1016/j.jbankfin.2014.09.017 [oai_citation:23‡Google Sites](https://sites.google.com/site/colomboeml3/research)
+ with Patrizio Tirelli, Luisanna Onnis. *Journal of Banking and Finance*.
+ [DOI:10.1016/j.jbankfin.2014.09.017](https://doi.org/10.1016/j.jbankfin.2014.09.017)
 
 - **Addressing the unemployment-mortality conundrum: Non-linearity is the answer (2015)**
- con Fabrizio Carmignani, Giorgio Bonamore. *Social Science & Medicine*.
- DOI: https://doi.org/10.1016/j.socscimed.2014.12.017 [oai_citation:24‡Google Sites](https://sites.google.com/site/colomboeml3/research)
+  with Fabrizio Carmignani, Giorgio Bonamore. *Social Science & Medicine*.
+ [DOI:10.1016/j.socscimed.2014.12.017](https://doi.org/10.1016/j.socscimed.2014.12.017)
 
 - **On the Empirical Failure of Purchasing Power Parity Tests (2015)**
- con Matteo Pelagatti. *Journal of Applied Econometrics*.
- DOI: https://doi.org/10.1002/jae.2418 [oai_citation:25‡Google Sites](https://sites.google.com/site/colomboeml3/research)
-
+ with Matteo Pelagatti. *Journal of Applied Econometrics*.
+  [DOI:10.1002/jae.2418](https://doi.org/10.1002/jae.2418)
+  
 - **Measuring the Monetary Value of Social Relations: a Hedonic Approach (2014)**
- con Luca Stanca. *Journal of Behavioral and Experimental Economics*.
- DOI: https://doi.org/10.1016/j.socec.2014.03.001 [oai_citation:26‡Google Sites](https://sites.google.com/site/colomboeml3/research)
+ with Luca Stanca. *Journal of Behavioral and Experimental Economics*.
+ [DOI:10.1016/j.socec.2014.03.001](https://doi.org/10.1016/j.socec.2014.03.001)
 
 - **The Effect of Training on Productivity: Evidence from a Large Panel of Firms (2014)**
- con Luca Stanca. *International Journal of Manpower*.
- DOI: https://doi.org/10.1108/IJM-Aug-2012-012 [oai_citation:27‡Google Sites](https://sites.google.com/site/colomboeml3/research)
+ with Luca Stanca. *International Journal of Manpower*.
+ [DOI:10.1108/IJM-Aug-2012-012](https://doi.org/10.1108/IJM-Aug-2012-012)
 
 - **Reinterpreting social pacts: theory and evidence (2013)**
- con Patrizio Tirelli, Jelle Visser. *Journal of Comparative Economics*.
- DOI: https://doi.org/10.1016/j.jce.2013.05.008 [oai_citation:28‡Google Sites](https://sites.google.com/site/colomboeml3/research)
-
+  with Patrizio Tirelli, Jelle Visser. *Journal of Comparative Economics*.
+  [DOI:10.1016/j.jce.2013.05.008](https://doi.org/10.1016/j.jce.2013.05.008)
+  
 - **La Dolce Vita: Hedonic Estimates of Quality of Life in Italian Cities (2012)**
  con Luca Stanca, Alessandra Michelangeli. *Regional Studies*.
  DOI: https://doi.org/10.1080/00343404.2012.712206 [oai_citation:29‡Google Sites](https://sites.google.com/site/colomboeml3/research)
