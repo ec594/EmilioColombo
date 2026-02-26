@@ -63,15 +63,15 @@ with Fabio Mercorio, Mario Mezzanzanica, Antonio Serino.
 
 - **Public Expenditure Multipliers and Informality (2024)**
   with Davide Furceri, Pietro Pizzuto, Patrizio Tirelli. *European Economic Review*.
- DOI: https://doi.org/10.1016/j.euroecorev.2024.104703 [oai_citation:12‡Google Sites](https://sites.google.com/site/colomboeml3/research)
+[DOI:10.1016/j.euroecorev.2024.104703](doi.org/10.1016/j.euroecorev.2024.104703)
 
 - **Skill Demand and Labour Market Concentration: Evidence from Italian Vacancies (2023)**
- con Alberto Marcato. *International Journal of Manpower*.
- DOI: https://doi.org/10.1108/IJM-04-2023-0181 [oai_citation:13‡Google Sites](https://sites.google.com/site/colomboeml3/research)
+ with Alberto Marcato. *International Journal of Manpower*.
+  [DOI:10.1108/IJM-04-2023-0181](https://doi.org/10.1108/IJM-04-2023-0181)
 
 - **Comparing the US financing sources during world wars and pandemics (Spanish flu vs. COVID-19) (2023)**
- con Edoardo Beretta. *Applied Economics Letters*.
- DOI: https://doi.org/10.1080/13504851.2023.2266598 [oai_citation:14‡Google Sites](https://sites.google.com/site/colomboeml3/research)
+ with Edoardo Beretta. *Applied Economics Letters*.
+ [DOI:10.1080/13504851.2023.2266598] (https://doi.org/10.1080/13504851.2023.2266598)
 
 - **The Day after the Bomb: Well-being Effects of Terrorist Attacks in Europe (2021)**
  con Valentina Rotondi, Luca Stanca. *Social Indicators Research*.
