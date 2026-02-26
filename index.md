@@ -52,7 +52,7 @@ with Alessia De Santo, Francesco Trentini.
 - **Broadband Internet and Labour Market Dynamism (2025)**
   with Angelica Bertucci, Patrizio Tirelli. (DISEIS WP 2506) [oai_citation:10‡Google Sites](https://sites.google.com/site/colomboeml3/research)
 
-### Published papers (selezione completa come nel sito)
+### Published papers
 - **VEUCTOR : Training and Selecting Best Vector Space Models from Online Job Ads for European Countries (2026)**, with Simone D’Amico, Fabio Mercorio, Mario Mezzanzanica, *Information Sciences*, [DOI:10.1016/j.ins.2026.123274](https://www.sciencedirect.com/journal/information-sciences/articles-in-press)
 - **Towards the Terminator Economy: Assessing Job Exposure to AI through LLMs (2025)**
 with Fabio Mercorio, Mario Mezzanzanica, Antonio Serino.
