@@ -32,7 +32,7 @@ Puoi scaricare il mio CV qui:
 
 ---
 
-## Ricerca
+## Research
 
 ### Work in progress
 - **Let’s get green: understanding green skills and jobs through online job advertisements (2025)**
