@@ -126,34 +126,33 @@ with Fabio Mercorio, Mario Mezzanzanica, Antonio Serino.
   [DOI:10.1016/j.jce.2013.05.008](https://doi.org/10.1016/j.jce.2013.05.008)
   
 - **La Dolce Vita: Hedonic Estimates of Quality of Life in Italian Cities (2012)**
- con Luca Stanca, Alessandra Michelangeli. *Regional Studies*.
- DOI: https://doi.org/10.1080/00343404.2012.712206 [oai_citation:29‡Google Sites](https://sites.google.com/site/colomboeml3/research)
+with Luca Stanca, Alessandra Michelangeli. *Regional Studies*.
+ [DOI:10.1080/00343404.2012.712206](https://doi.org/10.1080/00343404.2012.712206)
 
 - **Macroeconomic risk and the (de)stabilising role of government size (2011)**
- con Fabrizio Carmignani, Patrizio Tirelli. *European Journal of Political Economy*.
- DOI: https://doi.org/10.1016/j.ejpoleco.2011.04.002 [oai_citation:30‡Google Sites](https://sites.google.com/site/colomboeml3/research)
-
-*(…e le altre pubblicazioni/monografie come riportato nella pagina Research.)* [oai_citation:31‡Google Sites](https://sites.google.com/site/colomboeml3/research)
-
----
-
-## Didattica
-
-- **Economia Internazionale** [oai_citation:32‡Google Sites](https://sites.google.com/site/colomboeml3/teaching)
-- **Economia Europea** [oai_citation:33‡Google Sites](https://sites.google.com/site/colomboeml3/teaching)
+with Fabrizio Carmignani, Patrizio Tirelli. *European Journal of Political Economy*.
+  [DOI:10.1016/j.ejpoleco.2011.04.002](https://doi.org/10.1016/j.ejpoleco.2011.04.002)
+  
+*(…other papers, books and older publications are available in section publications* 
 
 ---
 
-## Progetti
+## Teaching
 
-Negli ultimi anni ho partecipato a diversi progetti di ricerca dedicati allo sviluppo di strumenti innovativi per il mercato del lavoro, basati sull’analisi degli **Online Job Advertisements (OJA)**. [oai_citation:34‡Google Sites](https://sites.google.com/site/colomboeml3/projects)
+- **Economia Internazionale**
+- **Economia Europea**
+- **International Economics (IRGA)**
+- The webpages of the courses are available only on **[Blackboard](blackboard.unicatt.it)**  
+Students are required to sign-in following the instructions on the website.
 
-In collaborazione con un team di informatici di **CRISP (Università di Milano-Bicocca)** e con **Tabulaex** (oggi **Lightcast Europe**), questi strumenti sono stati inizialmente sviluppati per il mercato del lavoro italiano. [oai_citation:35‡Google Sites](https://sites.google.com/site/colomboeml3/projects)
+---
 
-Nel **2015** abbiamo vinto un bando finanziato da **CEDEFOP** per realizzare un prototipo di analisi OJA in **5 paesi europei**. Successivamente, ulteriori bandi hanno permesso di estendere l’approccio fino a un sistema paneuropeo (28 paesi) in un contesto multilingue. Il progetto, co-finanziato da **CEDEFOP** ed **EUROSTAT**, ha contribuito a trasformare questi strumenti in un sistema informativo integrato con le **Eurostat Smart Statistics**. [oai_citation:36‡Google Sites](https://sites.google.com/site/colomboeml3/projects)
+## Projects
 
-Dal **2025 al 2029** sarò **project leader** di un Framework Contract in cui **CRISP** e **Lightcast** svilupperanno, manterranno ed espanderanno l’**Eurostat Web Intelligence Hub**. [oai_citation:37‡Google Sites](https://sites.google.com/site/colomboeml3/projects)
-
+- During the last years I have been involved in several research projects aimed at developing innovative tools for the labour market through the analysis of Online Job Adverstisements.
+With a team of computer scientists at **[CRISP](https://crispresearch.it)** (University of Milano-Bicocca) and of Tabulaex (now [Lightcast Europe](https://lightcast.io/euro)), a spin off of the University of Milano-Bicocca,  we have initially developed these tools for the Italian labour market.
+In 2015 we have won a tender funded by the European Agency CEDEFOP, to develop a working prototype for analysing OJA in 5 European countries. We subsequently won a second  and a third tender aimed at developing a Pan-European tool that analyses OJA for 28 countries in Europe in a multilanguage setting. The project, financed jointly by CEDEFOP and EUROSTAT, to developed the tool further, and transformed  it into a system  of information integrated with Eurostat Smart Statistics. 
+From 2025 to 2029 I will be the project leader of a Framework Contract where Crisp and Lightcast  will develop, maintain and expand Eurostat's Web Intelligence Hub.
 ---
 
 ## Contatti
