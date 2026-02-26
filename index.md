@@ -36,7 +36,7 @@ Puoi scaricare il mio CV qui:
 
 ### Work in progress
 - **Let’s get green: understanding green skills and jobs through online job advertisements (2025)**
- con Alessia De Santo, Francesco Trentini.
+with Alessia De Santo, Francesco Trentini.
  - DISEIS WP 2503: https://dipartimenti.unicatt.it/diseis [oai_citation:5‡Google Sites](https://sites.google.com/site/colomboeml3/research)
  - Laboratorio Revelli WP194: https://www.laboratoriorevelli.it [oai_citation:6‡Google Sites](https://sites.google.com/site/colomboeml3/research)
 
@@ -44,24 +44,25 @@ Puoi scaricare il mio CV qui:
  con Simone D’Amico, Fabio Mercorio, Mario Mezzanzanica. [oai_citation:7‡Google Sites](https://sites.google.com/site/colomboeml3/research)
 
 - **Broadband Shocks, TFP Growth and Polarisation of European Firms (2025)**
- con Luca Portoghese, Patrizio Tirelli. (DISEIS WP 2504) [oai_citation:8‡Google Sites](https://sites.google.com/site/colomboeml3/research)
+ with Luca Portoghese, Patrizio Tirelli. (DISEIS WP 2504) [oai_citation:8‡Google Sites](https://sites.google.com/site/colomboeml3/research)
 
 - **Broadband Access and Markups in Europe (2025)**
- con Luca Portoghese, Patrizio Tirelli. (DISEIS WP 2505) [oai_citation:9‡Google Sites](https://sites.google.com/site/colomboeml3/research)
+  with Luca Portoghese, Patrizio Tirelli. (DISEIS WP 2505) [oai_citation:9‡Google Sites](https://sites.google.com/site/colomboeml3/research)
 
 - **Broadband Internet and Labour Market Dynamism (2025)**
- con Angelica Bertucci, Patrizio Tirelli. (DISEIS WP 2506) [oai_citation:10‡Google Sites](https://sites.google.com/site/colomboeml3/research)
+  with Angelica Bertucci, Patrizio Tirelli. (DISEIS WP 2506) [oai_citation:10‡Google Sites](https://sites.google.com/site/colomboeml3/research)
 
 ### Published papers (selezione completa come nel sito)
+- **VEUCTOR : Training and Selecting Best Vector Space Models from Online Job Ads for European Countries (2026)**, with Simone D’Amico, Fabio Mercorio, Mario Mezzanzanica, *Information Sciences*, [DOI:10.1016/j.ins.2026.123274](https://www.sciencedirect.com/journal/information-sciences/articles-in-press)
 - **Towards the Terminator Economy: Assessing Job Exposure to AI through LLMs (2025)**
- con Fabio Mercorio, Mario Mezzanzanica, Antonio Serino.
+with Fabio Mercorio, Mario Mezzanzanica, Antonio Serino.
  - ArXiv: https://arxiv.org/abs/2407.19204
  - DISEIS WP 2401: https://dipartimenti.unicatt.it/diseis
  - IJCAI-25 proceedings — DOI: https://doi.org/10.24963/ijcai.2025/1066
- (citazioni media: La Repubblica, Radio24, Wired, RaiNews24, ecc.) [oai_citation:11‡Google Sites](https://sites.google.com/site/colomboeml3/research)
+ (media coverage: La Repubblica, Radio24, Wired, RaiNews24, ecc.) [oai_citation:11‡Google Sites](https://sites.google.com/site/colomboeml3/research)
 
 - **Public Expenditure Multipliers and Informality (2024)**
- con Davide Furceri, Pietro Pizzuto, Patrizio Tirelli. *European Economic Review*.
+  with Davide Furceri, Pietro Pizzuto, Patrizio Tirelli. *European Economic Review*.
  DOI: https://doi.org/10.1016/j.euroecorev.2024.104703 [oai_citation:12‡Google Sites](https://sites.google.com/site/colomboeml3/research)
 
 - **Skill Demand and Labour Market Concentration: Evidence from Italian Vacancies (2023)**
