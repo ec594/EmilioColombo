@@ -27,8 +27,7 @@ Check out our new research!**
 
 ## Curriculum Vitae
 
-Puoi scaricare il mio CV qui:
-- CV (PDF): https://www.dropbox.com/s/uzesbx6cm33oyyf/cv_new.pdf?dl=0 [oai_citation:4‡Google Sites](https://sites.google.com/site/colomboeml3/curriculum-vitae)
+- You can downoad my CV [here](https://www.dropbox.com/scl/fi/tp2edsfx0vyk8aitg39wf/cv_new.pdf?rlkey=n3pbkobbx0cf5iwhrfr2n3dsa&dl=0)
 
 ---
 
