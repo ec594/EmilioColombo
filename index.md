@@ -56,9 +56,9 @@ with Alessia De Santo, Francesco Trentini.
 - **VEUCTOR : Training and Selecting Best Vector Space Models from Online Job Ads for European Countries (2026)**, with Simone D’Amico, Fabio Mercorio, Mario Mezzanzanica, *Information Sciences*, [DOI:10.1016/j.ins.2026.123274](https://www.sciencedirect.com/journal/information-sciences/articles-in-press)
 - **Towards the Terminator Economy: Assessing Job Exposure to AI through LLMs (2025)**
 with Fabio Mercorio, Mario Mezzanzanica, Antonio Serino.
- - ArXiv: https://arxiv.org/abs/2407.19204
- - DISEIS WP 2401: https://dipartimenti.unicatt.it/diseis
- - IJCAI-25 proceedings — DOI: https://doi.org/10.24963/ijcai.2025/1066
+ - [ArXiv](https://arxiv.org/abs/2407.19204)
+ - [DISEIS WP 2401](https://dipartimenti.unicatt.it/diseis-wp_2401.pdf)
+ - *IJCAI-25 proceedings**, [DOI:10.24963/ijcai.2025/1066](https://www.ijcai.org/proceedings/2025/1066)
  (media coverage: La Repubblica, Radio24, Wired, RaiNews24, ecc.) [oai_citation:11‡Google Sites](https://sites.google.com/site/colomboeml3/research)
 
 - **Public Expenditure Multipliers and Informality (2024)**
