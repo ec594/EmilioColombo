@@ -169,7 +169,8 @@ From 2025 to 2029 I will be the project leader of a Framework Contract where Cri
 ## Appointment
 
 Per fissare un appuntamento usa lo strumento di prenotazione (slot disponibili):
-- Book now / Office hours: (link di prenotazione dalla pagina “Contact me”) [oai_citation:43‡Google Sites](https://sites.google.com/site/colomboeml3/contact-me)
+- [Book now / Office hours](https://calendly.com/emilio-colombo/ricevimento)
+  
 
 <a href="https://calendly.com/emilio-colombo/ricevimento"
    target="_blank" rel="noopener"
