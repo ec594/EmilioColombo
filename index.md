@@ -131,7 +131,7 @@ with Luca Stanca, Alessandra Michelangeli. *Regional Studies*.
 with Fabrizio Carmignani, Patrizio Tirelli. *European Journal of Political Economy*.
   [DOI:10.1016/j.ejpoleco.2011.04.002](https://doi.org/10.1016/j.ejpoleco.2011.04.002)
   
-*(…other papers, books and older publications are available in section publications* 
+*…other papers, books and older publications are available in section publications* 
 
 ---
 
