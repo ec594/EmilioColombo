@@ -172,24 +172,20 @@ Per fissare un appuntamento usa lo strumento di prenotazione (slot disponibili):
 - Book now / Office hours: (link di prenotazione dalla pagina “Contact me”) [oai_citation:43‡Google Sites](https://sites.google.com/site/colomboeml3/contact-me)
 
 <a href="https://calendly.com/emilio-colombo/ricevimento"
-   target="_blank"
+   target="_blank" rel="noopener"
    style="
-     position: fixed;
-     bottom: 25px;
-     right: 25px;
-     background-color: #0d6efd;
-     color: white;
-     padding: 14px 26px;
-     border-radius: 999px;
-     text-decoration: none;
-     font-weight: 600;
-     font-family: sans-serif;
-     box-shadow: 0 4px 12px rgba(0,0,0,0.2);
-     z-index: 1000;
-     transition: all 0.2s ease-in-out;
-   "
-   onmouseover="this.style.transform='scale(1.05)'; this.style.backgroundColor='#0b5ed7';"
-   onmouseout="this.style.transform='scale(1)'; this.style.backgroundColor='#0d6efd';"
->
+     position:fixed !important;
+     right:24px !important;
+     bottom:24px !important;
+     z-index:999999 !important;
+     display:inline-block !important;
+     background:#0d6efd !important;
+     color:#fff !important;
+     padding:14px 22px !important;
+     border-radius:999px !important;
+     font:600 14px/1.1 -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Arial,sans-serif !important;
+     text-decoration:none !important;
+     box-shadow:0 6px 18px rgba(0,0,0,.18) !important;
+   ">
   Book an appointment
 </a>
