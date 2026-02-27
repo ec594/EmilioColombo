@@ -21,7 +21,7 @@ My current research interests include international macroeconomics, applied econ
 
 **Want to know how AI is reshaping the labour market?
 Check out our new research!**
-**[Towards the Terminator Economy](https://terminatoreconomy.com/home)**
+**[www.terminatoreconomy.com](https://terminatoreconomy.com/home)**
 
 ---
 
