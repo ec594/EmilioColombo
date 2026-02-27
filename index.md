@@ -7,7 +7,6 @@ readtime: true
 js: /js/counter.js
 ---
 
-# Emilio Colombo
 
 I am **Professor of Economics** at the **Catholic University of Milan**. 
 I am also **Associate Editor** of *[Economic Analysis and Policy](https://www.sciencedirect.com/journal/economic-analysis-and-policy)*. 
@@ -154,17 +153,16 @@ In 2015 we have won a tender funded by the European Agency CEDEFOP, to develop a
 From 2025 to 2029 I will be the project leader of a Framework Contract where Crisp and Lightcast  will develop, maintain and expand Eurostat's Web Intelligence Hub.
 ---
 
-## Contatti
+## Contacts
 
-- **Email:** emilio.colombo@unicatt.it [oai_citation:38‡Google Sites](https://sites.google.com/site/colomboeml3/home?authuser=0)
-- **Office:** 508, via Necchi 5, quarto piano [oai_citation:39‡Google Sites](https://sites.google.com/site/colomboeml3/home?authuser=0)
-- **Office hours:** su appuntamento (vedi sezione Appointment) [oai_citation:40‡Google Sites](https://sites.google.com/site/colomboeml3/home?authuser=0)
-- **Indirizzo postale:**
+- **Email:** emilio.colombo@unicatt.it 
+- **Office:** 508, via Necchi 5, 4th floor
+- **Office hours:** by appointment (see section Contacts) 
+- **Mailing Address:**
  Università Cattolica del Sacro Cuore
  Largo Gemelli 1
- 20123 Milano, Italia [oai_citation:41‡Google Sites](https://sites.google.com/site/colomboeml3/home?authuser=0)
-- **ORCID:** https://orcid.org/0000-0002-0646-5680 [oai_citation:42‡Google Sites](https://sites.google.com/site/colomboeml3/home?authuser=0)
-
+ 20123 Milano, Italia 
+- **ORCID:** [0000-0002-0646-5680](https://orcid.org/0000-0002-0646-5680)
 ---
 
 ## Appointment
