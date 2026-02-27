@@ -48,6 +48,7 @@ with Alessia De Santo, Francesco Trentini.
   
 ### Published papers
 - **VEUCTOR : Training and Selecting Best Vector Space Models from Online Job Ads for European Countries (2026)**, with Simone D’Amico, Fabio Mercorio, Mario Mezzanzanica, *Information Sciences*, [DOI:10.1016/j.ins.2026.123274](https://www.sciencedirect.com/journal/information-sciences/articles-in-press)
+- Check out the **[VEUCTOR](https://veuctor.eu)** page that describes the methodology and provide access to the data
 - **Towards the Terminator Economy: Assessing Job Exposure to AI through LLMs (2025)**
 with Fabio Mercorio, Mario Mezzanzanica, Antonio Serino.
  - [ArXiv](https://arxiv.org/abs/2407.19204)
