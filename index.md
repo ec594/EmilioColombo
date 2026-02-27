@@ -163,6 +163,7 @@ From 2025 to 2029 I will be the project leader of a Framework Contract where Cri
  Largo Gemelli 1
  20123 Milano, Italia 
 - **ORCID:** [0000-0002-0646-5680](https://orcid.org/0000-0002-0646-5680)
+- [![Book an Appointment](https://img.shields.io/badge/Book%20an%20Appointment-blue?style=for-the-badge)](https://calendly.com/emilio-colombo/ricevimento)
 ---
 
 ## Appointment
