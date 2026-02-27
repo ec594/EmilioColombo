@@ -164,6 +164,13 @@ From 2025 to 2029 I will be the project leader of a Framework Contract where Cri
  20123 Milano, Italia 
 - **ORCID:** [0000-0002-0646-5680](https://orcid.org/0000-0002-0646-5680)
 
+---
+
+## Appointment
+
+Per fissare un appuntamento usa lo strumento di prenotazione (slot disponibili):
+- Book now / Office hours: (link di prenotazione dalla pagina “Contact me”) [oai_citation:43‡Google Sites](https://sites.google.com/site/colomboeml3/contact-me)
+
 <a href="https://calendly.com/emilio-colombo/ricevimento"
    target="_blank"
    style="
@@ -186,9 +193,3 @@ From 2025 to 2029 I will be the project leader of a Framework Contract where Cri
 >
   Book an appointment
 </a>
----
-
-## Appointment
-
-Per fissare un appuntamento usa lo strumento di prenotazione (slot disponibili):
-- Book now / Office hours: (link di prenotazione dalla pagina “Contact me”) [oai_citation:43‡Google Sites](https://sites.google.com/site/colomboeml3/contact-me)
