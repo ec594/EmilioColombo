@@ -163,17 +163,28 @@ From 2025 to 2029 I will be the project leader of a Framework Contract where Cri
  Largo Gemelli 1
  20123 Milano, Italia 
 - **ORCID:** [0000-0002-0646-5680](https://orcid.org/0000-0002-0646-5680)
-- <a href="https://calendly.com/emilio-colombo/ricevimento"
+
+<a href="https://calendly.com/emilio-colombo/ricevimento"
    target="_blank"
    style="
-     display:inline-block;
-     padding:12px 24px;
-     background:#0d6efd;
-     color:#ffffff;
-     text-decoration:none;
-     border-radius:8px;
-     font-weight:600;">
-Book an appointment
+     position: fixed;
+     bottom: 25px;
+     right: 25px;
+     background-color: #0d6efd;
+     color: white;
+     padding: 14px 26px;
+     border-radius: 999px;
+     text-decoration: none;
+     font-weight: 600;
+     font-family: sans-serif;
+     box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+     z-index: 1000;
+     transition: all 0.2s ease-in-out;
+   "
+   onmouseover="this.style.transform='scale(1.05)'; this.style.backgroundColor='#0b5ed7';"
+   onmouseout="this.style.transform='scale(1)'; this.style.backgroundColor='#0d6efd';"
+>
+  Book an appointment
 </a>
 ---
 
