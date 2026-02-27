@@ -36,18 +36,17 @@ Check out our new research!**
 ### Work in progress
 - **Let’s get green: understanding green skills and jobs through online job advertisements (2025)**
 with Alessia De Santo, Francesco Trentini.
- - DISEIS WP 2503: https://dipartimenti.unicatt.it/diseis [oai_citation:5‡Google Sites](https://sites.google.com/site/colomboeml3/research)
- - Laboratorio Revelli WP194: https://www.laboratoriorevelli.it [oai_citation:6‡Google Sites](https://sites.google.com/site/colomboeml3/research)
-
+ - [DISEIS WP 2503](https://dipartimenti.unicatt.it/diseis-wp_2503.pdf)
+ - [Laboratorio Revelli WP194](https://laboratoriorevelli.it/it/papers/let’s-get-green-understanding-green-skills-and-jobs-through-online-job-advertisements)
+  
 - **Broadband Shocks, TFP Growth and Polarisation of European Firms (2025)**
- with Luca Portoghese, Patrizio Tirelli. (DISEIS WP 2504) [oai_citation:8‡Google Sites](https://sites.google.com/site/colomboeml3/research)
-
+ with Luca Portoghese, Patrizio Tirelli. [DISEIS WP 2504](https://dipartimenti.unicatt.it/diseis-wp_2504.pdf)
 - **Broadband Access and Markups in Europe (2025)**
-  with Luca Portoghese, Patrizio Tirelli. (DISEIS WP 2505) [oai_citation:9‡Google Sites](https://sites.google.com/site/colomboeml3/research)
+  with Luca Portoghese, Patrizio Tirelli. [DISEIS WP 2505](https://dipartimenti.unicatt.it/diseis-wp_2505.pdf)
 
 - **Broadband Internet and Labour Market Dynamism (2025)**
-  with Angelica Bertucci, Patrizio Tirelli. (DISEIS WP 2506) [oai_citation:10‡Google Sites](https://sites.google.com/site/colomboeml3/research)
-
+  with Angelica Bertucci, Patrizio Tirelli. [DISEIS WP 2506](https://dipartimenti.unicatt.it/diseis-wp_2506.pdf)
+  
 ### Published papers
 - **VEUCTOR : Training and Selecting Best Vector Space Models from Online Job Ads for European Countries (2026)**, with Simone D’Amico, Fabio Mercorio, Mario Mezzanzanica, *Information Sciences*, [DOI:10.1016/j.ins.2026.123274](https://www.sciencedirect.com/journal/information-sciences/articles-in-press)
 - **Towards the Terminator Economy: Assessing Job Exposure to AI through LLMs (2025)**
