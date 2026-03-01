@@ -53,7 +53,7 @@ with Fabio Mercorio, Mario Mezzanzanica, Antonio Serino.
  - [ArXiv](https://arxiv.org/abs/2407.19204)
  - [DISEIS WP 2401](https://dipartimenti.unicatt.it/diseis-wp_2401.pdf)
  - *IJCAI-25 proceedings*, [DOI:10.24963/ijcai.2025/1066](https://www.ijcai.org/proceedings/2025/1066)
- (media coverage: [La Repubblica](https://www.repubblica.it/economia/2024/08/13/news/intelligenza_artificiale_impatto_professioni-423445016/?ref=search), Radio24, Wired, RaiNews24, ecc.) [oai_citation:11‡Google Sites](https://sites.google.com/site/colomboeml3/research)
+ (media coverage: [La Repubblica](https://www.repubblica.it/economia/2024/08/13/news/intelligenza_artificiale_impatto_professioni-423445016/?ref=search), Radio24, Wired, RaiNews24, etc.)
 
 - **Public Expenditure Multipliers and Informality (2024)**
   with Davide Furceri, Pietro Pizzuto, Patrizio Tirelli. *European Economic Review*.
