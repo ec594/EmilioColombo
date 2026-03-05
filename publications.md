@@ -32,6 +32,7 @@ I try to keep the following list of publications up to date. Have a look at my [
 	journal = {IJCAI},
 	keywords = {AI, Large Language models, employment, skills},
 	doi = {10.24963/ijcai.2025/1066},
+	url = {https://doi.org/10.24963/ijcai.2025/1066},
 	pages = {9591--9600},
 	number = {1}
 }
@@ -44,6 +45,7 @@ I try to keep the following list of publications up to date. Have a look at my [
 	volume = {741},
 	keywords = {Word embedding, Machine learning, Labor market, NLP},
 	doi = {10.1016/j.ins.2026.123274},
+	url = {https://www.sciencedirect.com/science/article/pii/S0020025526002057},
 	pages = {1--25},
 	number = {2}
 }
@@ -84,6 +86,7 @@ I try to keep the following list of publications up to date. Have a look at my [
 	keywords = {Hedonic prices; Quality of life; Social capital; Social relations; Well-being; Economics and Econometrics; Applied Psychology; Social Sciences (all)},
 	url = {http://www.journals.elsevier.com/journal-of-behavioral-and-experimental-economics/},
 	doi = {10.1016/j.socec.2014.03.001},
+	url = {https://www.sciencedirect.com/science/article/pii/S2214804314000330},
 	pages = {77--87},
 	number = {June}
 }
@@ -98,6 +101,7 @@ I try to keep the following list of publications up to date. Have a look at my [
 	keywords = {Institutions; Macroeconomic outcomes; Social pacts; Economics and Econometrics},
 	url = {http://www.elsevier.com/inca/publications/store/6/2/2/8/6/4/index.htt},
 	doi = {10.1016/j.jce.2013.05.008},
+	url = {https://www.sciencedirect.com/science/article/pii/S014759671300084X},
 	pages = {358--374},
 	number = {2}
 }
@@ -112,6 +116,7 @@ I try to keep the following list of publications up to date. Have a look at my [
 	keywords = {Automation; Machine learning; Skill analysis; Web vacancies},
 	url = {http://www.elsevier.com/inca/publications/store/5/0/5/5/4/9/index.htt},
 	doi = {10.1016/j.infoecopol.2019.05.003},
+	url = {https://www.sciencedirect.com/science/article/pii/S0167624518301318},
 	pages = {27--37},
 	number = {47}
 }
@@ -125,6 +130,7 @@ I try to keep the following list of publications up to date. Have a look at my [
 	volume = {27},
 	keywords = {Consistency; Credibility; de facto classification; Exchange rate regimes; Economics and Econometrics; Finance},
 	doi = {10.1016/j.jimonfin.2008.06.004},
+	url = {https://www.sciencedirect.com/science/article/pii/S0261560608000879},
 	pages = {1177--1197},
 	number = {7}
 }
@@ -139,6 +145,7 @@ I try to keep the following list of publications up to date. Have a look at my [
 	keywords = {DSGE models; Financial crises; Shadow economy; Economics and Econometrics; Finance},
 	url = {http://www.elsevier.com/locate/jbankfin},
 	doi = {10.1016/j.jbankfin.2014.09.017},
+	url = {https://www.sciencedirect.com/science/article/pii/S0378426614003173},
 	pages = {180--190},
 	number = {Gennaio}
 }
@@ -153,6 +160,7 @@ I try to keep the following list of publications up to date. Have a look at my [
 	keywords = {Endogenous participation; Financial crises; Informal Economy; Labor market frictions;},
 	url = {http://www.journals.elsevier.com/world-development/},
 	doi = {10.1016/j.worlddev.2019.03.001},
+	url = {https://www.sciencedirect.com/science/article/pii/S0305750X19300452},
 	pages = {1--22},
 	number = {119}
 }
@@ -165,6 +173,7 @@ I try to keep the following list of publications up to date. Have a look at my [
 	volume = {164},
 	keywords = {Public expenditure multiplier Local projection methods Informality DSGE model TANK model},
 	doi = {10.1016/j.euroecorev.2024.104703},
+	url = {https://www.sciencedirect.com/science/article/pii/S0014292124000321},
 	pages = {1--46},
 	number = {104703}
 }
@@ -180,6 +189,7 @@ I try to keep the following list of publications up to date. Have a look at my [
 	keywords = {Economic conditionsUnemploymentHealth behaviorsHealth outcomes},
 	url = {http://www.elsevier.com/wps/find/journaldescription.cws_home/622964/description#description},
 	doi = {10.1016/j.ehb.2017.11.005},
+	url = {https://www.sciencedirect.com/science/article/pii/S1570677X17300953},
 	pages = {29--37},
 	number = {28}
 }
@@ -194,6 +204,7 @@ I try to keep the following list of publications up to date. Have a look at my [
 	keywords = {Economics and Econometrics; Social Sciences (miscellaneous)},
 	url = {http://www.interscience.wiley.com/jpages/0883-7252/},
 	doi = {10.1002/jae.2418},
+	url = {https://onlinelibrary.wiley.com/doi/abs/10.1002/jae.2418},
 	pages = {904--923},
 	number = {6}
 }
@@ -245,6 +256,7 @@ I try to keep the following list of publications up to date. Have a look at my [
 	volume = {2020},
 	keywords = {Exchange rate; Forecasting; Machine learning; Nonlinear models; Statistical learning},
 	doi = {10.1016/j.ijforecast.2019.12.007},
+	url = {https://www.sciencedirect.com/science/article/pii/S0169207019302729},
 	pages = {1260--1289},
 	number = {36/4}
 }
@@ -310,6 +322,7 @@ I try to keep the following list of publications up to date. Have a look at my [
 	volume = {44},
 	keywords = {Local labour market; Concentration; Skill demand; Training},
 	doi = {10.1108/ijm-04-2023-0181},
+	url = {https://doi.org/10.1108/IJM-04-2023-0181},
 	pages = {156--198},
 	number = {9}
 }
