@@ -20,10 +20,10 @@ My current research interests include international macroeconomics, applied econ
 **<span style="color:#b30000; background-color:#ffe6e6; padding:2px 4px;">
 Want to know how AI is reshaping the labour market?
 Check out our new research!</span>**
-**<span style="color:red">Want to know how AI is reshaping the labour market?
-Check out our new research!</span>**
 **[www.terminatoreconomy.com](https://terminatoreconomy.com/home)**
-
+**<span style="color:#b30000; background-color:#ffe6e6; padding:2px 4px;">
+New Tool for for training, selecting, and aligning word embedding models built from European Online Job Advertisements (OJAs).</span>**
+**[VEUCTOR](https://veuctor.eu)**
 ---
 
 ## Curriculum Vitae
