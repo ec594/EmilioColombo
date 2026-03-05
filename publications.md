@@ -32,7 +32,7 @@ I try to keep the following list of publications up to date. Have a look at my [
   month = { 8 },
   year = { 2025 },
   pages = { 9591--9600 },
-  editor = { [object Object] },
+  editor = {},
   publisher = { International Joint Conferences on Artificial Intelligence Organization },
   booktitle = { Proceedings of the Thirty-Fourth International Joint Conference on
                Artificial Intelligence, {IJCAI-25} },
