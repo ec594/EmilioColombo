@@ -6,6 +6,13 @@ published: true
 full-width: true
 ---
 
+<link rel="stylesheet" href="https://github.com/ec594/EmilioColombo/css/bib-publication-list.css" type="text/css" />
+<noscript>
+<!-- bibtex source hidden by default, show it if JS disabled -->
+<style>
+#bibtex { display: block;}
+</style>
+</noscript>
 
 
 I try to keep the following list of publications up to date. Have a look at my [Google Scholar profile](https://scholar.google.com/citations?user=JZpAiCAAAAAJ&hl=en) or [Ideas](https://ideas.repec.org/e/pco173.html).
