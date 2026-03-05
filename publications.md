@@ -6,7 +6,8 @@ published: true
 full-width: true
 ---
 
-<link rel="stylesheet" href="https://github.com/ec594/EmilioColombo/css/bib-publication-list.css" type="text/css" />
+
+<link rel="stylesheet" href="https://ec594.github.io/EmilioColombo/css/bib-publication-list.css" type="text/css" />
 <noscript>
 <!-- bibtex source hidden by default, show it if JS disabled -->
 <style>
