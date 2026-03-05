@@ -25,19 +25,22 @@ I try to keep the following list of publications up to date. Have a look at my [
 <pre id="bibtex" style="display:none;">
 
 
-@inproceedings{
-	10807_331618,
-	author = {Colombo, Emilio and Mercorio, Fabio and Mezzanzanica, Mario and Serino, Antonio},
-	title = {Towards the Terminator Economy: Assessing Job Exposure to AI Through LLMs},
-	year = {2025},
-	publisher = {International Joint Conferences on Artificial Intelligence},
-	journal = {IJCAI},
-	keywords = {AI, Large Language models, employment, skills},
-	doi = {10.24963/ijcai.2025/1066},
-	url = {https://doi.org/10.24963/ijcai.2025/1066},
-	pages = {9591--9600},
-	number = {1}
+@inproceedings{ijcai2025p1066,
+  url = { https://doi.org/10.24963/ijcai.2025/1066 },
+  doi = { 10.24963/ijcai.2025/1066 },
+  note = { AI and Social Good },
+  month = { 8 },
+  year = { 2025 },
+  pages = { 9591--9600 },
+  editor = { [object Object] },
+  publisher = { International Joint Conferences on Artificial Intelligence Organization },
+  booktitle = { Proceedings of the Thirty-Fourth International Joint Conference on
+               Artificial Intelligence, {IJCAI-25} },
+  author = { Emilio Colombo and Fabio Mercorio and Mario Mezzanzanica and Antonio Serino },
+  title = { Towards the Terminator Economy: Assessing Job Exposure to AI Through LLMs },
 }
+
+
 @article{
 	10807_331617,
 	author = {Colombo, Emilio and D'Amico, Simone and Mercorio, Fabio and Mezzanzanica, Mario},
