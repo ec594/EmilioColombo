@@ -30,7 +30,7 @@ I try to keep the following list of publications up to date. Have a look at my [
   doi = { 10.24963/ijcai.2025/1066 },
   note = { AI and Social Good },
   month = { 8 },
-  year = { 2025 },
+  year = {2025},
   pages = { 9591--9600 },
   editor = {},
   publisher = { International Joint Conferences on Artificial Intelligence Organization },
