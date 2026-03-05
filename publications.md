@@ -495,7 +495,6 @@ I try to keep the following list of publications up to date. Have a look at my [
 	number = {8}
 }
 
-https://ec594.github.io/EmilioColombo/
 
 </pre>
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js">
