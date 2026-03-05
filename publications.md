@@ -25,7 +25,7 @@ I try to keep the following list of publications up to date. Have a look at my [
 <pre id="bibtex" style="display:none;">
 
 
-@conference{
+@inproceedings{
 	10807_331618,
 	author = {Colombo, Emilio and Mercorio, Fabio and Mezzanzanica, Mario and Serino, Antonio},
 	title = {Towards the Terminator Economy: Assessing Job Exposure to AI Through LLMs},
