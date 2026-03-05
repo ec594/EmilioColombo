@@ -18,9 +18,9 @@ My current research interests include international macroeconomics, applied econ
 
 ## News
 
-**Want to know how AI is reshaping the labour market?
+**<span style="color:red">Want to know how AI is reshaping the labour market?
 Check out our new research!**
-**[www.terminatoreconomy.com](https://terminatoreconomy.com/home)**
+**[www.terminatoreconomy.com](https://terminatoreconomy.com/home)</span>**
 
 ---
 
