@@ -2803,8 +2803,8 @@ var bibtexify = (function($) {
       // Bucket SOLO per il grafico: raggruppa 2009..2012 in un'unica colonna
       var yearKey = item.year;
       var y = parseInt(item.year, 10);
-      if (!isNaN(y) && y >= 2009 && y <= 2012) {
-        yearKey = '09-12';
+      if (!isNaN(y) && y >= 2001 && y <= 2010) {
+        yearKey = '01-10';
       }
     
       if (!this.stats[yearKey]) {
