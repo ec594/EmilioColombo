@@ -1,14 +1,14 @@
 ---
 layout: page
 title: Emilio Colombo
-subtitle: 'Full Professor of Economics - [Università Cattolica del Sacro Cuore](www.unicatt.it), Italy'
+subtitle: 'Full Professor of Economics - Università Cattolica del Sacro Cuore, Italy'
 published: true
 readtime: true
 js: /js/counter.js
 ---
 
 
-I am **Professor of Economics** at the **Catholic University of Milan**. 
+I am **Professor of Economics** at the **[Catholic University of Milan](https://docenti.unicatt.it/ppd2/it/docenti/06369/emilio-colombo/profilo)**. 
 I am also **Associate Editor** of *[Economic Analysis and Policy](https://www.sciencedirect.com/journal/economic-analysis-and-policy)*. 
 
 My current research interests include international macroeconomics, applied economics and labour economics
