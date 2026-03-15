@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Emilio Colombo
-subtitle: 'Full Professor of Economics - Università Cattolica del Sacro Cuore, Italy'
+subtitle: 'Full Professor of Economics - [Università Cattolica del Sacro Cuore](www.unicatt.it), Italy'
 published: true
 readtime: true
 js: /js/counter.js
